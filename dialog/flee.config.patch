@@ -1,0 +1,17 @@
+[
+	{
+		"op": "add",
+		"path": "/helpme/skadvtest",
+		"value": {
+			"default": [
+				"Danger! Danger!",
+				"Someone?! Anyone?!",
+				"Yikes...",
+				"Keep away!",
+				"Meanie!",
+				"I don't want to fight!",
+				"Waaaaahh!"
+			]
+		}
+	}
+]

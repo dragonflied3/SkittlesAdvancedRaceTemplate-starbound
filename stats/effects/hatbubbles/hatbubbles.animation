@@ -1,0 +1,16 @@
+{
+  "particleEmitters" : {
+    "bubbleboost" : {
+      "active" : true,
+      "emissionRate" : 2.69,
+      "offsetRegion" : [0.0, 2.5, 0.0, 0.0],
+      "particles" : [
+        { "particle" : "hatbubbles"}
+      ]
+    }   
+  }
+}
+
+// First field of ofset region seems to be horizontal spread.
+// Second field of ofset region seemsto be vertical position.
+// First field of ofset region seems to be horizontal spread as well.

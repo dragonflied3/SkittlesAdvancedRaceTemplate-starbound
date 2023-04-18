@@ -1,0 +1,4 @@
+[
+   { "op" : "add", "path" : "/species/-", "value" : "skadvtest" },
+   { "op" : "add", "path" : "/defaultCodexes/skadvtest", "value" : [ "protectorate1", "protectorate2", "skadvtestdiary" ] }
+]

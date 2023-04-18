@@ -1,0 +1,15 @@
+[
+	{
+		"op": "add",
+		"path": "/converse/skadvtest",
+		"value": {
+			"default": [
+				"villager converse 1",
+				"villager converse 2",
+				"villager converse 3",
+				"villager converse 4",
+				"villager converse 5"
+			]
+		}
+	}
+]

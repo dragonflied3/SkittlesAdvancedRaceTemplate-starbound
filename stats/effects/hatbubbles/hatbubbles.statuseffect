@@ -1,0 +1,10 @@
+{
+  "name" : "hatbubbles",
+
+  "effectConfig" : {},
+
+  "animationConfig" : "hatbubbles.animation",
+
+  "label" : "Pop pop pop!",
+  "icon" : "hatbubbles.png"
+}

@@ -1,0 +1,55 @@
+[
+	{
+		"op": "add",
+		"path": "/attack/skadvtest",
+		"value": {
+			"default": [
+				"Oh no you don't!",
+				"I'm gonna kill you now.",
+				"Heheheh...",
+				"Let's get this over with...",
+				"Eat lead!",
+				"*distinct hostile noises*",
+				"Here we go again!",
+				"Your dead as bread!",
+				"Bite, worse than bark!",
+				"You, me, let's go.",
+				"Time to end this!"
+			]
+		}
+	},
+	{
+		"op": "add",
+		"path": "/killedTarget/skadvtest",
+		"value": {
+			"default": [
+				"Ariba!",
+				"I did it!",
+				"For every kill I rise!",
+				"Such glory!",
+				"That was easy.",
+				"Nyeheheh.",
+				"Awesome sauce!",
+				"That was fun...",
+				"More spilled blood.",
+				"My hands are stained.",
+				"Oh yeah!",
+				"They deserved that."
+			]
+		}
+	},
+	{
+		"op": "add",
+		"path": "/lostTarget/skadvtest",
+		"value": {
+			"default": [
+				"You can run but you can't hide!",
+				"...And stay out!",
+				"Target lost...",
+				"I lost sight of my prey...",
+				"Aw man, so close!",
+				"I still smell you!"
+			]
+		}
+	}
+]
