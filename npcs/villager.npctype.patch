@@ -6,22 +6,22 @@
 	},
 	*/
 	{ "op" : "add",
-		"path" : "/items/skadvtest",
+		"path" : "/items/chimera",
 		"value" : [
 			[0, [
 				{
 				"chest" : [
-				  { "name" : "skadvtestoutfit1chest", "parameters" : { "colorIndex" : [1, 3, 4, 5, 6, 7, 8, 9] } },
-				  { "name" : "skadvtestoutfit2chest", "parameters" : { "colorIndex" : [1, 3, 4, 5, 6, 7, 8, 9] } },
-				  { "name" : "skadvtestoutfit3chest", "parameters" : { "colorIndex" : [1, 3, 4, 5, 6, 7, 8, 9] } },
-				  { "name" : "skadvtestoutfit4chest", "parameters" : { "colorIndex" : [1, 3, 4, 5, 6, 7, 8, 9] } }
+				  { "name" : "chimeraoutfit1chest", "parameters" : { "colorIndex" : [1, 3, 4, 5, 6, 7, 8, 9] } },
+				  { "name" : "chimeraoutfit2chest", "parameters" : { "colorIndex" : [1, 3, 4, 5, 6, 7, 8, 9] } },
+				  { "name" : "chimeraoutfit3chest", "parameters" : { "colorIndex" : [1, 3, 4, 5, 6, 7, 8, 9] } },
+				  { "name" : "chimeraoutfit4chest", "parameters" : { "colorIndex" : [1, 3, 4, 5, 6, 7, 8, 9] } }
 				],
 
 				"legs" : [
-				  { "name" : "skadvtestoutfit1legs", "parameters" : { "colorIndex" : [1, 3, 4, 5, 6, 7, 8, 9] } },
-				  { "name" : "skadvtestoutfit2legs", "parameters" : { "colorIndex" : [1, 3, 4, 5, 6, 7, 8, 9] } },
-				  { "name" : "skadvtestoutfit3legs", "parameters" : { "colorIndex" : [1, 3, 4, 5, 6, 7, 8, 9] } },
-				  { "name" : "skadvtestoutfit4legs", "parameters" : { "colorIndex" : [1, 3, 4, 5, 6, 7, 8, 9] } }
+				  { "name" : "chimeraoutfit1legs", "parameters" : { "colorIndex" : [1, 3, 4, 5, 6, 7, 8, 9] } },
+				  { "name" : "chimeraoutfit2legs", "parameters" : { "colorIndex" : [1, 3, 4, 5, 6, 7, 8, 9] } },
+				  { "name" : "chimeraoutfit3legs", "parameters" : { "colorIndex" : [1, 3, 4, 5, 6, 7, 8, 9] } },
+				  { "name" : "chimeraoutfit4legs", "parameters" : { "colorIndex" : [1, 3, 4, 5, 6, 7, 8, 9] } }
 					]
 				}
 			] ]

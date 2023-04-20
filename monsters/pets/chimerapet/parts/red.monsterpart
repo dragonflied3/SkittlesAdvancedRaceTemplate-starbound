@@ -1,0 +1,9 @@
+{
+  "name" : "red",
+  "category" : "chimerapet",
+  "type" : "body",
+
+  "frames" : {
+    "body" : "red.png"
+  }
+}

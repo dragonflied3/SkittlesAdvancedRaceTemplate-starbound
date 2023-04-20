@@ -1,17 +1,17 @@
 [
   {
     "op": "add",
-    "path": "/scriptConfig/chatSounds/skadvtest",
+    "path": "/scriptConfig/chatSounds/chimera",
     "value": {
       "male": [
-        "/sfx/humanoid/skadvtest_chatter_male1.ogg",
-        "/sfx/humanoid/skadvtest_chatter_male2.ogg",
-        "/sfx/humanoid/skadvtest_chatter_male3.ogg"
+        "/sfx/humanoid/chimera_chatter_male1.ogg",
+        "/sfx/humanoid/chimera_chatter_male2.ogg",
+        "/sfx/humanoid/chimera_chatter_male3.ogg"
       ],
       "female": [
-        "/sfx/humanoid/skadvtest_chatter_female1.ogg",
-        "/sfx/humanoid/skadvtest_chatter_female2.ogg",
-        "/sfx/humanoid/skadvtest_chatter_female3.ogg"
+        "/sfx/humanoid/chimera_chatter_female1.ogg",
+        "/sfx/humanoid/chimera_chatter_female2.ogg",
+        "/sfx/humanoid/chimera_chatter_female3.ogg"
       ]
     }
   }

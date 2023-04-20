@@ -1,10 +1,10 @@
 [{
 		"op" : "add",
-		"path" : "/species/skadvtest",
+		"path" : "/species/chimera",
 		"value" : {
-			"aiFrames" : "skadvtestAI.png",
-			"portraitFrames" : "portraits/skadvtestportrait.png",
-			"staticFrames" : "staticskadvtest.png"	
+			"aiFrames" : "chimeraAI.png",
+			"portraitFrames" : "portraits/chimeraportrait.png",
+			"staticFrames" : "staticchimera.png"	
 		}
 	}
 ]

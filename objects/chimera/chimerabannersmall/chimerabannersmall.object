@@ -1,0 +1,35 @@
+{
+  "objectName" : "chimerabannersmall",
+  "rarity" : "Common",
+  "category" : "decorative",
+  "price" : 50,
+  "printable" : false,
+
+  "description" : "A small chimera wallbanner from a chimera academy.",
+  "shortdescription" : "Small chimera Wall Banner",
+  "race" : "chimera",
+
+  "apexDescription" : "This banner is small...",
+  "avianDescription" : "A small banner! Charming!",
+  "floranDescription" : "Floran likesss thisss.",
+  "glitchDescription" : "Charmed. A small chimera banner...",
+  "humanDescription" : "The chimera banner quite lovely.",
+  "hylotlDescription" : "The banner is just lovely.",
+  "novakidDescription" : "This would look great in my house.",
+  "chimeraDescription" : "I am so happy to see the chimera culture thrive!",  
+
+
+  "inventoryIcon" : "chimerabannersmallicon.png",
+  "orientations" : [
+    {
+      "image" : "chimerabannersmall.png:<color>",
+      "imagePosition" : [2, -2],
+      "frames" : 1,
+      "animationCycle" : 0.5,
+
+      "spaceScan" : 0.1,
+      "anchors" : []
+
+    }
+  ]
+}

@@ -1,16 +1,16 @@
 [
 	{ "op" : "add",
-		"path" : "/speciesShips/skadvtest",
+		"path" : "/speciesShips/chimera",
 		"value" : [
-		    "/ships/skadvtest/skadvtestt0.structure",
-			"/ships/skadvtest/skadvtestt1.structure",
-			"/ships/skadvtest/skadvtestt2.structure",
-			"/ships/skadvtest/skadvtestt3.structure",
-			"/ships/skadvtest/skadvtestt4.structure",
-			"/ships/skadvtest/skadvtestt5.structure",
-			"/ships/skadvtest/skadvtestt6.structure",
-			"/ships/skadvtest/skadvtestt7.structure",
-			"/ships/skadvtest/skadvtestt8.structure"
+		    "/ships/chimera/chimerat0.structure",
+			"/ships/chimera/chimerat1.structure",
+			"/ships/chimera/chimerat2.structure",
+			"/ships/chimera/chimerat3.structure",
+			"/ships/chimera/chimerat4.structure",
+			"/ships/chimera/chimerat5.structure",
+			"/ships/chimera/chimerat6.structure",
+			"/ships/chimera/chimerat7.structure",
+			"/ships/chimera/chimerat8.structure"
 		]
 	}
 ]

@@ -1,14 +1,14 @@
 [
 	{
 		"op": "add",
-		"path": "/initialquests/skadvtest",
+		"path": "/initialquests/chimera",
 		"value": [
 			"protectorate"
 		]
 	},
 	{
 		"op": "add",
-		"path": "/pronounGenders/skadvtest",
+		"path": "/pronounGenders/chimera",
 		"value": {
 			"male": "neutral",
 			"female": "neutral"

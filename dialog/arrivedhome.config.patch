@@ -1,7 +1,7 @@
 [
 	{
 		"op": "add",
-		"path": "/beacon/skadvtest",
+		"path": "/beacon/chimera",
 		"value": {
 			"default": [
 				"You called?",
@@ -10,7 +10,7 @@
 				"Hi! What's up?",
 				"You want something?"
 			],
-			"skadvtest": [
+			"chimera": [
 				"You called?",
 				"Is there something you need?",
 				"You wanna talk?",
@@ -21,7 +21,7 @@
 	},
 	{
 		"op": "add",
-		"path": "/rent/skadvtest",
+		"path": "/rent/chimera",
 		"value": {
 			"default": [
 				"I thought you might like this!",

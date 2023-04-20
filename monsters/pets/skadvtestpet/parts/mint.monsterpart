@@ -1,9 +1,0 @@
-{
-  "name" : "mint",
-  "category" : "skadvtestpet",
-  "type" : "body",
-
-  "frames" : {
-    "body" : "mint.png"
-  }
-}

@@ -1,7 +1,7 @@
 [
 	{
 		"op": "add",
-		"path": "/attack/skadvtest",
+		"path": "/attack/chimera",
 		"value": {
 			"default": [
 				"Oh no you don't!",
@@ -20,7 +20,7 @@
 	},
 	{
 		"op": "add",
-		"path": "/killedTarget/skadvtest",
+		"path": "/killedTarget/chimera",
 		"value": {
 			"default": [
 				"Ariba!",
@@ -40,7 +40,7 @@
 	},
 	{
 		"op": "add",
-		"path": "/lostTarget/skadvtest",
+		"path": "/lostTarget/chimera",
 		"value": {
 			"default": [
 				"You can run but you can't hide!",

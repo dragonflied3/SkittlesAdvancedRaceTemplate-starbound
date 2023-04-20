@@ -1,8 +1,0 @@
-{
-  "input" : [
-    { "item" : "fabric", "count" : 10 }
-
-  ],
-  "output" : { "item" : "skadvtestoutfit2legs", "count" : 1 },
-  "groups" : [ "craftingwheel", "clothes" ]
-}

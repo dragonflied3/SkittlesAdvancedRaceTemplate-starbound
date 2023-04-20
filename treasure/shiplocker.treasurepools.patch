@@ -1,7 +1,7 @@
 [
   {
     "op": "add",
-    "path": "/skadvtestStarterTreasure",
+    "path": "/chimeraStarterTreasure",
     "value": [[0, {
       "fill" : [
         {"pool" : "starterTreasure"},

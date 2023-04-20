@@ -1,0 +1,9 @@
+{
+  "name" : "fullblack",
+  "category" : "chimerapet",
+  "type" : "body",
+
+  "frames" : {
+    "body" : "fullblack.png"
+  }
+}
