@@ -1,0 +1,15 @@
+{
+    "fastbananaHarvest" : [
+        [0, {
+        "pool" : [
+            {"weight" : 0.9, "item" : "banana"},
+            {"weight" : 0.1, "item" : "fastbananaseed"}
+        ],
+        "poolRounds" : [
+            [0.5, 3],
+            [0.3, 4],
+            [0.2, 5]
+        ]
+        } ]
+    ]
+}
