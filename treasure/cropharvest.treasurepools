@@ -2,7 +2,8 @@
     "fastbananaHarvest" : [
         [0, {
         "pool" : [
-            {"weight" : 0.9, "item" : "banana"},
+            {"weight" : 0.45, "item" : "hyperbanana"},
+            {"weight" : 0.45, "item" : "hypergrapes"},
             {"weight" : 0.1, "item" : "fastbananaseed"}
         ],
         "poolRounds" : [
