@@ -6,7 +6,7 @@
   "eventCategory" : "eventCrop",
   "inventoryIcon" : "lettuce.png",
   "description" : "A leafy green, not that tasty by itself.",
-  "shortdescription" : "lettuce",
+  "shortdescription" : "Lettuce",
   "foodValue" : 5,
   "tooltipKind" : "food",
   "builder" : "/items/buildscripts/buildfood.lua",
@@ -15,5 +15,6 @@
   "rottingMultiplier" : 6.0,
   "blockingEffects" : [
     "wellfed"
-  ]
+  ],
+  "learnBlueprintsOnPickup" : [ "lettucejuice" ]
 }

@@ -3,7 +3,7 @@
   "rarity" : "Common",
   "price" : 50,
   "category" : "drink",
-  "inventoryIcon" : "lettucejuice.png",
+  "inventoryIcon" : "lettucejuiceicon.png",
   "description" : "You really want to drink this?",
   "shortdescription" : "Lettuce Juice",
   "foodValue" : 10,
