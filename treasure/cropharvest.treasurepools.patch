@@ -11,7 +11,7 @@
                  [0.4, 2]
             ]
     } ] ] 
-    }
+    },
     
     {"op" : "add", "path" : "/fastbananaHarvest", "value" : [
         [0, {
