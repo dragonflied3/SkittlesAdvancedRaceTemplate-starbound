@@ -1,0 +1,92 @@
+{
+  "itemName" : "pincerang",
+  "level" : 5,
+  "price" : 5000,
+  "maxStack" : 1,
+  "rarity" : "Legendary",
+  "description" : "Centipede-rang",
+  "shortdescription" : "Pincerang",
+  "tooltipKind" : "base",
+  "category" : "boomerang",
+  "twoHanded" : false,
+  "itemTags" : ["weapon","upgradeableWeapon"],
+
+  "inventoryIcon" : "pincerang.png",
+  "animation" : "boomerang.animation",
+  "animationParts" : {
+    "boomerang" : "pincerang.png"
+  },
+  "animationCustom" : {
+    "animatedParts" : { "parts" : { "boomerang" : { "properties" : {
+      "offset" : [0.5, 0]
+    }}}}
+  },
+  "scripts" : ["boomerang.lua"],
+  "fireOffset" : [1.25, 0.5],
+
+  "cooldownTime" : 0.4,
+
+  "projectileType" : "pincerang",
+  "projectileParameters" : {
+    "power" : 6,
+    "knockback" : 10,
+    "statusEffects" : [ "weakpoison" ],
+
+    "ignoreTerrain" : true,
+    "controlForce" : 20,
+    "pickupDistance" : 1.5,
+    "snapDistance" : 3.0,
+
+    "wobbleRate" : 12.0,
+    "wobbleIntensity" : 24.0
+  },
+
+  "stances" : {
+    "idle" : {
+      "armRotation" : -20,
+      "animationState" : {
+        "weapon" : "visible"
+      },
+      "allowRotate" : true,
+      "allowFlip" : true
+    },
+    "windup" : {
+      "duration" : 0.1,
+      "transition" : "throw",
+      "transitionFunction" : "fire",
+      "armRotation" : 50,
+      "animationState" : {
+        "weapon" : "visible"
+      },
+      "allowRotate" : false,
+      "allowFlip" : false
+    },
+    "throw" : {
+      "armRotation" : 0,
+      "animationState" : {
+        "weapon" : "hidden"
+      },
+      "allowRotate" : true,
+      "allowFlip" : true
+    },
+    "catch" : {
+      "duration" : 0.2,
+      "transition" : "idle",
+      "armRotation" : 30,
+      "animationState" : {
+        "weapon" : "visible"
+      },
+      "allowRotate" : false,
+      "allowFlip" : true
+    }
+  },
+
+  "upgradeParameters" : {
+    "inventoryIcon" : "pincerang_l6.png",
+    "projectileType" : "pincerang_l6",
+    "animationParts" : {
+      "boomerang" : "pincerang_l6.png"
+    },
+    "shortdescription" : "Pincerang ^red;^reset;"
+  }
+}

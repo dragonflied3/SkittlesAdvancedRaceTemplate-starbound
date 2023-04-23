@@ -1,0 +1,30 @@
+{
+  "projectileName" : "pincerang_l6",
+  "image" : "pincerang_l6.png",
+  "animationCycle" : 0.5,
+  "frameNumber" : 1,
+  "damageKindImage" : "icon.png",
+  "pointLight" : false,
+  "flippable" : false,
+  "actionOnReap" : [ ],
+  "statusEffects" : [ ],
+  "periodicActions" : [
+    {
+      "time" : 0.007,
+      "action" : "projectile",
+      "type" : "pincertrail_l6",
+      "fuzzAngle" : 0
+   }
+  ],
+  "damagePoly" : [[-8, 4], [-4, 8], [4, 8], [8, 4], [8, -4], [4, -8], [-4, -8], [-8, -4]],
+  "power" : 10.0,
+  "speed" : 45,
+  "damageKind" : "poisonspear",
+  "physics" : "laser",
+  "bounces" : -1,
+  "piercing" : true,
+  "timeToLive" : 4,
+  "persistentAudio" : "/sfx/melee/spear_twirl_loop.ogg",
+
+  "scripts" : [ "/scripts/projectiles/boomerangprojectile.lua", "pincerangprojectile.lua" ]
+}
