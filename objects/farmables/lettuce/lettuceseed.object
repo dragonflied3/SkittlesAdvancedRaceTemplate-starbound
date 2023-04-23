@@ -1,7 +1,7 @@
 {
   "objectName" : "lettuceseed",
   "colonyTags" : ["nature"],
-  "rarity" : "Rare",
+  "rarity" : "Common",
   "description" : "An earthy, wet green.",
   "category" : "seed",
   "shortdescription" : "Lettuce Seed",
