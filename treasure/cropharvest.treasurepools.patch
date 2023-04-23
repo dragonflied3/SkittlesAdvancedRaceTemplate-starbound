@@ -1,15 +1,15 @@
 [
-{"op" : "add", "path" : "/lettuceHarvest", "value" : [
-[0, {
-        "pool" : [
-             {"weight" : 0.89, "item" : "lettuce"},
-             {"weight" : 0.01, "item" : "lettuceseed"},
-             {"weight" : 0.1, "item" : "plantfibre"}
-        ],
-        "poolRounds" : [
-             [0.6, 1],
-             [0.4, 2]
-        ]
-} ] ] 
-}
+    {"op" : "add", "path" : "/lettuceHarvest", "value" : [
+    [0, {
+            "pool" : [
+                 {"weight" : 0.89, "item" : "lettuce"},
+                 {"weight" : 0.01, "item" : "lettuceseed"},
+                 {"weight" : 0.1, "item" : "plantfibre"}
+            ],
+            "poolRounds" : [
+                 [0.6, 1],
+                 [0.4, 2]
+            ]
+    } ] ] 
+    }
 ]
