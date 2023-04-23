@@ -1,5 +1,5 @@
-{
-    "fastbananaHarvest" : [
+[
+    {"op" : "add", "path" : "/fastbananaHarvest", "value" : [
         [0, {
         "pool" : [
             {"weight" : 0.45, "item" : "hyperbanana"},
@@ -11,6 +11,6 @@
             [0.3, 4],
             [0.2, 5]
         ]
-        } ]
-    ]
-}
+        } ] ]
+    }
+]
