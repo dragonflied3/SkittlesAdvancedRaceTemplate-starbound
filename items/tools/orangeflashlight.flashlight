@@ -13,6 +13,6 @@
   "handPosition" : [-2, 0],
   "lightPosition" : [4, 0],
   "lightColor" : [242, 112, 30],
-  "beamLevel" : 7,
-  "beamAmbience" : 0.6
+  "beamLevel" : 5,
+  "beamAmbience" : 0.4
 }
