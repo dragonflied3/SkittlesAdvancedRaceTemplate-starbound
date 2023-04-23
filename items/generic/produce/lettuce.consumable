@@ -1,0 +1,19 @@
+{
+  "itemName" : "lettuce",
+  "rarity" : "Common",
+  "price" : 130,
+  "category" : "food",
+  "eventCategory" : "eventCrop",
+  "inventoryIcon" : "lettuce.png",
+  "description" : "A leafy green, not that tasty by itself.",
+  "shortdescription" : "lettuce",
+  "foodValue" : 5,
+  "tooltipKind" : "food",
+  "builder" : "/items/buildscripts/buildfood.lua",
+  "maxStack" : 1,
+  "itemAgingScripts" : ["/scripts/items/rotting.lua"],
+  "rottingMultiplier" : 6.0,
+  "blockingEffects" : [
+    "wellfed"
+  ]
+}
