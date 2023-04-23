@@ -15,5 +15,6 @@
   "rottingMultiplier" : 6.0,
   "blockingEffects" : [
     "wellfed"
-  ]
+  ],
+  "learnBlueprintsOnPickup" : [ "lettucejuice" ]
 }
