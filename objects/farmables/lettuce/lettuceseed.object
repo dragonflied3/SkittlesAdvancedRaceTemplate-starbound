@@ -1,7 +1,7 @@
 {
   "objectName" : "lettuceseed",
   "colonyTags" : ["nature"],
-  "rarity" : "Rare",
+  "rarity" : "Common",
   "description" : "A wet, green leafy vegetable that was used often on earth.",
   "category" : "seed",
   "shortdescription" : "Lettuce Seed",
