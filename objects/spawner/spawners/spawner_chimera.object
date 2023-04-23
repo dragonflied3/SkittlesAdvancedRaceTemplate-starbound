@@ -3,7 +3,7 @@
   "colonyTags" : ["misc"],
   "rarity" : "Common",
   "description" : "Spawn your very own chimera villager! Simply place and then leave the planet or ship. Once you return there will be an NPC.",
-  "shortdescription" : "chimera Spawner",
+  "shortdescription" : "Chimera Spawner",
   "race" : "chimera",
   "printable" : false,
   "category" : "spawner",
@@ -15,7 +15,7 @@
   "glitchDescription" : "Concern. These were all meant to be destroyed.",
   "humanDescription" : "What could I possibly want with chimeras?",
   "hylotlDescription" : "A chimera spawner. These shouldn't exist.",
-  "chimeraDescription" : "Woo!.",
+  "chimeraDescription" : "So that's where we come from...?",
 
   "inventoryIcon" : "defaulticon.png",
   "orientations" : [

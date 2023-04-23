@@ -7,8 +7,8 @@
     "config" : "/interface/windowconfig/merchant.config",
     "paneLayoutOverride" : {
       "windowtitle" : {
-        "title" : "Penguin Merchant",
-        "subtitle" : "He looks serious"
+        "title" : "Spirit Guide",
+        "subtitle" : "Emotionless pixel trading... thing."
       }
     },
     "buyFactor" : 1.0,
@@ -25,8 +25,8 @@
 	  { "item" : "spawnerchimera" }	  
     ]
   },
-  "description" : "Is that a Penguin?",
-  "shortdescription" : "Penguin Merchant",
+  "description" : "Looks menacingly harmless...",
+  "shortdescription" : "Spirit Guide",
   "race" : "chimera",
   "category" : "Merchant",
   "price" : 1000,
@@ -34,14 +34,14 @@
   "printable" : false,
   "unbreakable" : false,
 
-  "apexDescription" : "A silent penguin merchant. Unusual.",
-  "avianDescription" : "Who is this curious merchant?",
-  "floranDescription" : "Floran ssslightly ssscared by sssilent penguin.",
-  "glitchDescription" : "Concerned. This penguin seems unwilling to communicate.",
-  "humanDescription" : "If I kiss it, do you think it'll turn into a prince merchant?",
-  "hylotlDescription" : "This silent creature is not one of us.",
-  "novakidDescription" : "Don't see many penguin merchants round these parts!",
-  "chimeraDescription" : "Cute!",
+  "apexDescription" : "Selling goods, without arms? Unusual.",
+  "avianDescription" : "Strange bell is strange.",
+  "floranDescription" : "Floran ssslightly ssscared by sssilent thing.",
+  "glitchDescription" : "Concerned. This being is unregistered in my databases.",
+  "humanDescription" : "I heard of ghosts, but nothing quite like this.",
+  "hylotlDescription" : "This silent thing is not one of us.",
+  "novakidDescription" : "Is it a sign of good luck, or bad luck?",
+  "chimeraDescription" : "I can hear a faint ring emitting from that.",
 
   "inventoryIcon" : "chimeramerchanticon.png",
   "orientations" : [
@@ -49,8 +49,8 @@
       "dualImage" : "chimeramerchant.png:<color>.<frame>",
 
       "imagePosition" : [-14, 0],
-      "frames" : 29,
-      "animationCycle" : 2,
+      "frames" : 8,
+      "animationCycle" : 4,
 
       "spaceScan" : 0.1,
       "anchors" : [ "bottom" ]
