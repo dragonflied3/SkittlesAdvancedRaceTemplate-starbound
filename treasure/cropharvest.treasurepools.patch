@@ -1,15 +1,30 @@
 [
-{"op" : "add", "path" : "/lettuceHarvest", "value" : [
-[0, {
+    {"op" : "add", "path" : "/lettuceHarvest", "value" : [
+    [0, {
+            "pool" : [
+                 {"weight" : 0.89, "item" : "lettuce"},
+                 {"weight" : 0.01, "item" : "lettuceseed"},
+                 {"weight" : 0.1, "item" : "plantfibre"}
+            ],
+            "poolRounds" : [
+                 [0.6, 1],
+                 [0.4, 2]
+            ]
+    } ] ] 
+    }
+    
+    {"op" : "add", "path" : "/fastbananaHarvest", "value" : [
+        [0, {
         "pool" : [
-             {"weight" : 0.89, "item" : "lettuce"},
-             {"weight" : 0.01, "item" : "lettuceseed"},
-             {"weight" : 0.1, "item" : "plantfibre"}
+            {"weight" : 0.45, "item" : "hyperbanana"},
+            {"weight" : 0.45, "item" : "hypergrapes"},
+            {"weight" : 0.1, "item" : "fastbananaseed"}
         ],
         "poolRounds" : [
-             [0.6, 1],
-             [0.4, 2]
+            [0.5, 3],
+            [0.3, 4],
+            [0.2, 5]
         ]
-} ] ] 
-}
+        } ] ]
+    }
 ]
