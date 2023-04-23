@@ -50,7 +50,7 @@
 
       "imagePosition" : [-14, 0],
       "frames" : 8,
-      "animationCycle" : 1,
+      "animationCycle" : 1.5,
 
       "spaceScan" : 0.1,
       "anchors" : [ "bottom" ]
