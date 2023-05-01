@@ -15,6 +15,8 @@
   "humanDescription" : "Cool door. Too bad it isn't opening right now.",
   "hylotlDescription" : "A basic ship door. It won't open at the moment.",
   "novakidDescription" : "The door is broken, it ain't opening any time soon.",
+  "chimeraDescription" : "Door should open, but is stuck. Just a wall for now!",
+
   "inventoryIcon" : "chimerashipdoorBrokenicon.png",
   "orientations" : [
     {

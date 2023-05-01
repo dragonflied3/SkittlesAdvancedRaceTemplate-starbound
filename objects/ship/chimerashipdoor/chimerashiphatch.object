@@ -1,12 +1,12 @@
 {
-  "objectName" : "skadvtestshiphatch",
-  "colonyTags" : ["skadvtest","door"],
+  "objectName" : "chimerashiphatch",
+  "colonyTags" : ["chimera","door"],
   "rarity" : "Common",
   "category" : "door",
   "price" : 125,
   "description" : "A hatch suitable for a spaceship.",
-  "shortdescription" : "skadvtest Ship Hatch",
-  "race" : "skadvtest",
+  "shortdescription" : "chimera Ship Hatch",
+  "race" : "chimera",
   "apexDescription" : "These hatches are used on all our ships.",
   "avianDescription" : "A spaceship hatch.",
   "floranDescription" : "Ssspaceship hatch.",
@@ -14,10 +14,11 @@
   "humanDescription" : "Cool hatch.",
   "hylotlDescription" : "A basic ship hatch.",
   "novakidDescription" : "A hatch.",
-  "inventoryIcon" : "skadvtestshiphatchicon.png",
+  "chimeraDescription" : "Ship hatch, the parts interlock, and close tight!",
+  "inventoryIcon" : "chimerashiphatchicon.png",
   "orientations" : [
     {
-      "dualImage" : "skadvtestshiphatch.png:default",
+      "dualImage" : "chimerashiphatch.png:default",
       "imagePosition" : [-16, -20],
       "renderLayer" : "Object+5",
       "spaces" : [ 
@@ -43,7 +44,7 @@
     }
   },
   "animationParts" : {
-    "door" : "skadvtestshiphatch.png"
+    "door" : "chimerashiphatch.png"
   },
   "animationPosition" : [-16, -20],
   "inputNodes" : [ [-1, 4] ],
