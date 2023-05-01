@@ -6,7 +6,13 @@
   "eventCategory" : "eventCrop",
   "inventoryIcon" : "sweetbulb.png",
   "description" : "A glowing sort of stem fruit. High in sugar too.",
-  "shortdescription" : "sweetbulb",
+  "shortdescription" : "Sweetbulb",
+  "effects" : [ [
+      {
+        "effect" : "glow",
+        "duration" : 20
+      }
+    ] ],
   "foodValue" : 5,
   "tooltipKind" : "food",
   "builder" : "/items/buildscripts/buildfood.lua",
@@ -15,5 +21,6 @@
   "rottingMultiplier" : 3.0,
   "blockingEffects" : [
     "wellfed"
-  ]
+  ],
+  "learnBlueprintsOnPickup" : [ "sweetbulbjuice" ]
 }

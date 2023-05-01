@@ -1,6 +1,9 @@
 [
     {"op" : "add", "path" : "/lettuceHarvest", "value" : [
     [0, {
+      "fill" : [
+        {"item" : "lettuceseed"}
+        ],
             "pool" : [
                  {"weight" : 0.89, "item" : "lettuce"},
                  {"weight" : 0.01, "item" : "lettuceseed"},
@@ -9,6 +12,23 @@
             "poolRounds" : [
                  [0.6, 1],
                  [0.4, 2]
+            ]
+    } ] ] 
+    },
+    {"op" : "add", "path" : "/sweetbulbHarvest", "value" : [
+    [0, {
+      "fill" : [
+        {"item" : "sweetbulbseed"}
+        ],
+            "pool" : [
+                 {"weight" : 0.89, "item" : "sweetbulb"},
+                 {"weight" : 0.01, "item" : "sweetbulbseed"},
+                 {"weight" : 0.1, "item" : "glowfibre"}
+            ],
+            "poolRounds" : [
+                 [2.4, 4],
+                 [0.3, 2],
+                 [0.3, 2]
             ]
     } ] ] 
     }

@@ -1,0 +1,76 @@
+{
+  "objectName" : "sweetbulbseed",
+  "colonyTags" : ["nature"],
+  "rarity" : "Common",
+  "description" : "A glowing, acid-resiliant plant. Very sugary, too!",
+  "category" : "seed",
+  "shortdescription" : "Sweetbulb Seed",
+  "objectType" : "farmable",
+  "printable" : false,
+  "price" : 720,
+
+  "apexDescription" : "...",
+  "avianDescription" : "...",
+  "floranDescription" : "...",
+  "glitchDescription" : "...",
+  "humanDescription" : "...",
+  "hylotlDescription" : "...",
+  "novakidDescription" : "...",
+  "chimeraDescription" : "...",
+
+  "lightColor" : [178, 251, 255],
+
+  "flickerPeriod" : 0.3,
+  "flickerMinIntensity" : 0.50,
+  "flickerMaxIntensity" : 0.55,
+  "flickerPeriodVariance" : 0.075,
+  "flickerIntensityVariance" : 0.025,
+
+  "inventoryIcon" : "sweetbulbseedicon.png",
+
+  "tooltipKind" : "seed",
+  "largeImage" : "sweetbulbseed.png:default.2.0",
+
+
+  "orientations" : [
+    {
+      "imageLayers" : [ { "image" : "sweetbulbseed.png:<color>.<stage>.<alt>", "fullbright" : true }, { "image" : "sweetbulbseedlit.png:<color>.<stage>.<alt>" } ],
+      "imagePosition" : [0, 0],
+      "frames" : 1,
+      "animationCycle" : 0.5,
+
+      "animationParts" : {
+        "bg" : "sweetbulbseed.png:<color>.<stage>.<alt>",
+        "fg" : "sweetbulbseedlit.png:<color>.<stage>.<alt>"
+      },
+      "animationPosition" : [-8, 0],
+
+      "spaces" : [ [1, 0], [0, 0], [1, 1], [0, 1], [1, 2], [0, 2], [1, 3], [0, 3], [1, 4], [0, 4], [1, 5], [0, 5] ],
+      "requireTilledAnchors" : false,
+      "anchors" : [ "bottom" ],
+
+
+
+      "direction" : "left",
+      "lightPosition" : [0, 3]
+
+    }
+  ],
+
+  "radioMessagesOnPickup" : [ "pickupseed" ],
+
+  "stages" : [
+    {
+      "duration" : [17, 18]
+    },
+    {
+      "duration" : [17, 18]
+    },
+    {
+      "alts" : 5,
+      "harvestPool" : "sweetbulbHarvest"
+    }
+  ],
+
+  "maxImmersion" : 0.25
+}
