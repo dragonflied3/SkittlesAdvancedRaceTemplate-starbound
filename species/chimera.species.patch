@@ -12,16 +12,16 @@
 ^cyan;Fire Resistance^reset;: ^green;+20%^reset;
 Electric Resistance: -
 ^cyan;Poison Resistance^reset;: ^green;Immunity^reset;
-Ice Resistance^reset;: -
+^cyan;Ice Resistance^reset;: ^red;-30%^reset;
 ^cyan;Physical Resistance^reset;: ^green;+20%^reset;
     ^yellow;Immunities^reset;
 ^green;Food Poisoning^reset;
     ^yellow;Racial Benefits^reset;
-
+^green;Night Vision^reset;
     ^yellow;Extra Stats^reset;
-^cyan;Speed;: ^green;+50%^reset;
-^cyan;Jump Height;: ^green;+30%^reset;
-^cyan;Hunger Rate^reset; ^red;+25%^reset;
+^cyan;Speed^reset;: ^green;+25%^reset;
+^cyan;Jump Height^reset;: ^green;+15%^reset;
+^cyan;Hunger Rate^reset;: ^red;+25%^reset;
     "
   }
 ]
