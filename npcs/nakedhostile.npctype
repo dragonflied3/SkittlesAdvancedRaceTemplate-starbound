@@ -1,0 +1,35 @@
+{
+  "type" : "nakedhostile",
+  "baseType" : "hostile",
+
+  "dropPools" : [ "money" ],
+
+  "scriptConfig" : {
+    "dialog" : {
+      "attack" : {
+        "default" : {
+          "default" : [
+            "..."
+          ]
+        }
+      }
+    }
+  },
+
+  "matchColorIndices" : true,
+  "items" : {
+    "override" : [
+      [0, [
+          {
+            "primary" : [
+              "npcdagger"
+            ],
+            "sheathedprimary" : [
+              "npcdagger"
+            ]
+          }
+        ] ]
+    ]
+  }
+}
+

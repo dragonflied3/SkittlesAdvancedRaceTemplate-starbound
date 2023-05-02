@@ -11,13 +11,14 @@
   "price" : 100,
   "health" : 1.5,
 
-  "apexDescription" : "A solid wooden desk.",
+  "apexDescription" : "A solid wicker desk.",
   "avianDescription" : "A table to work at.",
   "floranDescription" : "Floran not sssit at desskss!",
   "glitchDescription" : "Calm. A place to process data.",
-  "humanDescription" : "A nice wooden desk. I don't have much in the way of paperwork to complete.",
+  "humanDescription" : "A nice wicker desk. I don't have much in the way of paperwork to complete.",
   "hylotlDescription" : "A desk at which you can undergo written tasks.",
   "novakidDescription" : "I ain't got time to sit around at a desk.",
+  "chimeraDescription" : "Wicker desk, lightweight but not good for hiding things.",
 
   "inventoryIcon" : "chimerawoodendeskicon.png",
   "orientations" : [

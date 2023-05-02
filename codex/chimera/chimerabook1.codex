@@ -1,0 +1,23 @@
+{
+	"id" : "chimerabook1",
+	"title" : "Who are we",
+	"description" : "A book by a chimera, ranting about their purpose in life.",
+	"icon" : "chimeracover1.png",
+	"contentPages" : [
+    "Animal, or beast. Alien, or human. Are we a tool for humanity, or birthed from the artificial handiwork of the humans? 
+
+The history of our race is but a mystery, half human, and half zordian. Combining two intelligent species to create one anew.
+
+Are we the result of the great reset? Is it by our hands that we brought them down to our level, and made them start on an equal plain as us?
+
+Regardless, it's obvious. Once again, the two races are at the top, and we can only go back to feeling unequal to them. Accepted not as both, but neither.
+
+What does our future hold, and why must time be coated with darkness?
+
+Can we really survive and make it to the stars, or will be become lost to time, like the neandrathals, and dodos?"
+	],
+		"itemConfig" : {
+		"rarity" : "common",
+		"price" : 25
+	}
+}

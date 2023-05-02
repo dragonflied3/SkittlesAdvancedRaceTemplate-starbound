@@ -9,13 +9,14 @@
   "shortdescription" : "Paneled Door",
   "race" : "chimera",
 
-  "apexDescription" : "This wooden door was not made by hand.",
-  "avianDescription" : "This door was produced by a machine.",
-  "floranDescription" : "Floran not like door made in factory.",
-  "glitchDescription" : "Observant. This door appears to have been manufactured on a production line.",
-  "humanDescription" : "A cheaply manufactured door.",
+  "apexDescription" : "This wicker door was made by hand.",
+  "avianDescription" : "This door was produced by a chimera.",
+  "floranDescription" : "Floran not like door made of sticks.",
+  "glitchDescription" : "Observant. This door appears to have been handmade by rural mutants.",
+  "humanDescription" : "A village-like door.",
   "hylotlDescription" : "This door lacks a personal touch.",
-  "novakidDescription" : "A cheap wooden door.",
+  "novakidDescription" : "A wickery wooden door.",
+  "chimeraDescription" : "Wood door make scratch when open!",
 
   "inventoryIcon" : "chimerawooddooricon.png",
 

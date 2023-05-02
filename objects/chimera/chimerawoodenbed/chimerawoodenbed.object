@@ -9,13 +9,14 @@
   "category" : "furniture",
   "price" : 45,
 
-  "apexDescription" : "A simple wooden bed, nice and comfortable.",
-  "avianDescription" : "A wooden frame and a comfortable mattress. What more could you need?",
+  "apexDescription" : "A wicker bed, nice and comfortable.",
+  "avianDescription" : "A wickered box stuffed with comfy things. What more could you need?",
   "floranDescription" : "Floran rarely ssleep in ssuch nice bed.",
   "glitchDescription" : "Drowsy. My power levels are low. This bed looks inviting.",
-  "humanDescription" : "Your basic, comfy bed.",
+  "humanDescription" : "A wicker bed with fine blankets of silk on top.",
   "hylotlDescription" : "A good place to close one's eyes.",
-  "novakidDescription" : "A decent place to get some shut-eye.",
+  "novakidDescription" : "A relaxing box to get some shut-eye.",
+  "chimeraDescription" : "Wicker box looks comfy, amazing for sleep!",
 
   "inventoryIcon" : "chimerawoodenbedicon.png",
   "orientations" : [
