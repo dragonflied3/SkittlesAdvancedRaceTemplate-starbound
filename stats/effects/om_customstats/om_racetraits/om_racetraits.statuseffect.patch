@@ -18,6 +18,7 @@
               {"stat": "iceStatusImmunity","amount": 0.0},
               {"stat": "physicalResistance","amount": 0.20}
               {"stat": "foodDelta", "baseMultiplier": 1.25}
+              {"stat": "om_rtfoodpoisonImmunity", "amount": 1.0}
           ],
           "benefits": [
             "thorns1"
