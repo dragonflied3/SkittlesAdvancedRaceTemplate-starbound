@@ -5,8 +5,8 @@
   "maxStack" : 1,
   "rarity" : "Uncommon",
   "category" : "chestarmour",
-  "description" : "A breastplate designed to strengthen the wearer's durability, as well as their resolve.",
-  "shortdescription" : "Lake Breastplate",
+  "description" : "A breastplate designed to strengthen the wearer's durability, as well as their heat tolerance.",
+  "shortdescription" : "Halogen Breastplate",
   "tooltipKind" : "armor",
 
   "maleFrames" : {

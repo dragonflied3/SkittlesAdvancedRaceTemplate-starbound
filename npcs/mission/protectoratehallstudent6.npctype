@@ -1,0 +1,50 @@
+{
+  "type" : "protectoratehallstudent6",
+  "baseType" : "base",
+
+  "damageTeamType" : "ghostly",
+
+  "persistent" : true,
+
+  "dropPools" : [ ],
+
+  "scriptConfig" : {
+    "behavior" : "simple",
+
+    "behaviorConfig" : {
+      "alwaysRun" : false,
+      "wanderWaitTime" : [4.0, 8.0],
+      "wanderTime" : [0.25, 0.5],
+      "wanderDistance" : 20
+    },
+
+    "dialogMode" : "sequence",
+    "dialog" : {
+      "converse" : {
+        "default" : {
+          "default" : [
+            "Hi <entityname>!",
+            "Today is big day, <entityname>!",
+            "I'm very excited!"
+          ]
+        }
+      }
+    }
+  },
+
+  "matchColorIndices" : true,
+  "items" : {
+    "override" : [
+      [0, [
+          {
+            "chest" : [
+              { "name" : "chimeraprotectorateshirt", "parameters" : { "colorIndex" : [0] } }
+            ],
+            "legs" : [
+              { "name" : "chimeraprotectorateshorts", "parameters" : { "colorIndex" : [0] } }
+            ]
+          }
+        ] ]
+    ]
+  }
+}

@@ -1,0 +1,130 @@
+[
+	{
+		"op": "add",
+		"path": "/hail/chimera",
+		"value": {
+			"default": [
+				"Unregistered, high alert!"
+			],
+			"chimera": [
+				"No shenanigans!",
+				"My bite is worse than my bark.",
+				"Would you like to... move along?",
+				"Alert! Wait... it's just you.",
+				"I have a desire to cut something...",
+				"No stare, only move!",
+				"No sudden movements.",
+				"I've got my big eyes on you.",
+				"If you want to steal, then you'll get steel!",
+				"Tempt me, I dare you!",
+				"Are you a good one?",
+				"If you want to steal, then you'll get steel!",
+				"No fight, not fun!"
+			],
+			"lyceen": [
+				"No shenanigans!",
+				"My bite is worse than my bark.",
+				"Would you like to... move along?",
+				"Alert! Wait... it's just you.",
+				"I have a desire to cut something...",
+				"No stare, only move!",
+				"No sudden movements.",
+				"I've got my big eyes on you.",
+				"If you want to steal, then you'll get steel!",
+				"Tempt me, I dare you!",
+				"Be a good boy/girl now!"
+			],
+			"apex": [
+				"No shenanigans!",
+				"My bite is worse than my bark.",
+				"Would you like to... move along?",
+				"Alert! Wait... it's just you.",
+				"I have a desire to cut something...",
+				"No stare, only move!",
+				"No sudden movements.",
+				"I've got my big eyes on you.",
+				"If you want to steal, then you'll get steel!",
+				"Tempt me, I dare you!",
+				"No funny monkey business!"
+			],
+			"hylotl": [
+				"No shenanigans!",
+				"My bite is worse than my bark.",
+				"Would you like to... move along?",
+				"Alert! Wait... it's just you.",
+				"I have a desire to cut something...",
+				"No stare, only move!",
+				"No sudden movements.",
+				"I've got my big eyes on you.",
+				"If you want to steal, then you'll get steel!",
+				"Tempt me, I dare you!",
+				"Something smells fishy..."
+			],
+			"glitch": [
+				"No shenanigans!",
+				"My bite is worse than my bark.",
+				"Would you like to... move along?",
+				"Alert! Wait... it's just you.",
+				"I have a desire to cut something...",
+				"No stare, only move!",
+				"No sudden movements.",
+				"I've got my big eyes on you.",
+				"If you want to steal, then you'll get steel!",
+				"Tempt me, I dare you!",
+				"Errors are not an excuse!"
+			],
+			"human": [
+				"No shenanigans!",
+				"My bite is worse than my bark.",
+				"Would you like to... move along?",
+				"Alert! Wait... it's just you.",
+				"I have a desire to cut something...",
+				"No stare, only move!",
+				"No sudden movements.",
+				"I've got my big eyes on you.",
+				"If you want to steal, then you'll get steel!",
+				"Tempt me, I dare you!",
+				"Behave yourself, human."
+			],
+			"floran": [
+				"No shenanigans!",
+				"My bite is worse than my bark.",
+				"Would you like to... move along?",
+				"Alert! Wait... it's just you.",
+				"I have a desire to cut something...",
+				"No stare, only move!",
+				"No sudden movements.",
+				"I've got my big eyes on you.",
+				"If you want to steal, then you'll get steel!",
+				"Tempt me, I dare you!",
+				"I can make a good vegetable stir-fry..."
+			],
+			"avian": [
+				"No shenanigans!",
+				"My bite is worse than my bark.",
+				"Would you like to... move along?",
+				"Alert! Wait... it's just you.",
+				"I have a desire to cut something...",
+				"No stare, only move!",
+				"No sudden movements.",
+				"I've got my big eyes on you.",
+				"If you want to steal, then you'll get steel!",
+				"Tempt me, I dare you!",
+				"I won't chicken to fight you."
+			],
+			"novakid": [
+				"No shenanigans!",
+				"My bite is worse than my bark.",
+				"Would you like to... move along?",
+				"Alert! Wait... it's just you.",
+				"I have a desire to cut something...",
+				"No stare, only move!",
+				"No sudden movements.",
+				"I've got my big eyes on you.",
+				"If you want to steal, then you'll get steel!",
+				"Tempt me, I dare you!",
+				"I'm down for a fire fight."
+			]
+		}
+	}
+]

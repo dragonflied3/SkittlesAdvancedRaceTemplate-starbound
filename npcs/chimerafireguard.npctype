@@ -1,0 +1,86 @@
+{
+  "type" : "chimerafireguard",
+  "baseType" : "guard",
+  
+  "persistent" : true,
+
+  "dropPools" : [ "guardtreasure" ],
+
+  "scriptConfig" : {
+    "behaviorConfig" : {
+      "greetingChance" : 0.5
+    },
+
+    "dialog" : {
+      "tenant" : {
+        "grumbles" : {
+          "tagCriteria" : "/dialog/grumble.config:tagCriteria",
+          "enclosedArea" : "/dialog/grumble.config:enclosedArea",
+          "otherDeed" : "/dialog/grumble.config:otherDeed",
+          "severe" : "/dialog/grumble.config:severe",
+          "final" : "/dialog/grumble.config:final"
+        },
+        "arrivedHome" : {
+          "beacon" : "/dialog/arrivedhome.config:beacon",
+          "rent" : "/dialog/arrivedhome.config:rent"
+        }
+      },
+
+      "converse" : "/dialog/converse.config:converse",
+      "accuse" : "/dialog/converse.config:accuse",
+
+      "attack" : "/dialog/combat.config:attack",
+      "reattack" : "/dialog/combat.config:reattack",
+      "killedTarget" : "/dialog/combat.config:killedTarget",
+      "lostTarget" : "/dialog/combat.config:lostTarget",
+      "outOfSight" : "/dialog/combat.config:outOfSight",
+      "cheerOn" : "/dialog/combat.config:cheerOn",
+      "cantReach" : "/dialog/combat.config:cantReach"
+    }
+  },
+
+  "movementParameters" : {
+    "airJumpProfile" : {
+      "jumpSpeed" : 50.0
+    }
+  },
+
+  "combat" : {
+    "meleeWeaponWindups" : {
+      "broadsword" : 0.07,
+      "shortsword" : 0.05
+    },
+    "meleeWeaponCooldowns" : {
+      "broadsword" : 0.7,
+      "shortsword" : 0.5
+    }
+  },
+
+  "items" : {
+    "override" : [
+      [0, [
+          {
+            "head" : [
+              { "name" : "chimeratier4head", "parameters" : { "colorIndex" : [1] } }
+            ],
+           "chest" : [
+              { "name" : "chimeratier4chest", "parameters" : { "colorIndex" : [1] } }
+            ],
+            "back" : [
+              { "name" : "halogenpack", "parameters" : { "colorIndex" : [1] } }
+            ],
+            "legs" : [
+              { "name" : "chimeratier4pants", "parameters" : { "colorIndex" : [1] } }
+            ],
+            "primary" : [
+              "npcbroadsword",
+              "npcshortsword"
+            ],
+            "sheathedprimary" : [ 
+              { "name" : "flamethrower" }
+            ]
+          }
+        ] ]
+    ]
+  }
+}

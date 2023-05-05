@@ -1,0 +1,11 @@
+{
+  "author" : "Sylvanos",
+  "description" : "WIP!",
+  "friendlyName" : "Chimeras & More Mod",
+  "includes" : ["OmRaceTraits", "ChimeraRace"],
+  "link" : "",
+  "name" : "ChimerasAndMoreMod",
+  "steamContentId" : "",
+  "tags" : "",
+  "version" : "0.1.1"
+}

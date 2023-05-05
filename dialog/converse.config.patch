@@ -4,11 +4,102 @@
 		"path": "/converse/chimera",
 		"value": {
 			"default": [
-				"villager converse 1",
-				"villager converse 2",
-				"villager converse 3",
-				"villager converse 4",
-				"villager converse 5"
+				"You have some nice feet there!",
+				"Watch out, I think I saw a Gleap over there.",
+				"Do you happen to have the time by chance?",
+				"I miss Earth.",
+				"I suddenly want to play in packing peanuts!",
+				"Need some music?",
+				"Shadow puppets!",
+				"And she said 'You can come to my oasis anytime'...",
+				"Nyeh... My back hurts."
+			],
+                        "chimera": [
+				"You have some nice feet there!",
+				"Watch out, I think I saw a Gleap over there.",
+				"Do you happen to have the time by chance?",
+				"I miss Earth.",
+				"I suddenly want to play in packing peanuts!",
+				"Need some music?",
+				"Shadow puppets!",
+				"And she said 'You can come to my oasis anytime'...",
+				"Nyeh... My back hurts."
+			],
+                        "hylotl": [
+				"Fish head, chat!"
+			],
+                        "human": [
+				"Skinny, chat!"
+			],
+                        "apex": [
+				"Hairy skinny, chat!"
+			],
+                        "avian": [
+				"Chicken, chat!"
+			],
+                        "glitch": [
+				"Metal man, chat!"
+			],
+                        "novakid": [
+				"Air bag, chat!"
+			],
+                        "floran": [
+				"Grass head, chat!"
+			],
+                        "lyceen": [
+				"Dog beast, hello!"
+			]
+		}
+	},
+	{
+		"op": "add",
+		"path": "/greeting/chimera",
+		"value": {
+			"default": [
+				"Hi!",
+				"New friend, hello!",
+				"Oh, hello there.",
+				"You look pleasant.",
+				"Hi hi!",
+				"Ka, hey!",
+				"Interesting scent, but greetings anyway!",
+				"He-heya!",
+				"Hi."
+			],
+                        "chimera": [
+				"Hi!",
+				"Familiar face, hello!",
+				"Hello fellow chimera!",
+				"You look cute!",
+				"Hi hi!",
+				"Ka, hey!",
+				"Interesting scent, but greetings anyway!",
+				"He-heya!",
+				"Hi."
+			],
+                        "hylotl": [
+				"Fish head, hello!"
+			],
+                        "human": [
+				"Skinny, hello!"
+			],
+                        "apex": [
+				"Hairy skinny, hello!"
+			],
+                        "avian": [
+				"Chicken, hello!"
+			],
+                        "glitch": [
+				"Metal man, hello!"
+			],
+                        "novakid": [
+				"Air bag, hello!"
+			],
+                        "floran": [
+				"Grass head, hello!"
+			],
+                        "lyceen": [
+				"Dog beast, hello!"
 			]
 		}
 	}

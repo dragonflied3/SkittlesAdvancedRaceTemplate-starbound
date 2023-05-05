@@ -1,0 +1,80 @@
+{
+  "type" : "chimeraguard",
+  "baseType" : "guard",
+  
+  "persistent" : true,
+
+  "dropPools" : [ "guardtreasure" ],
+
+  "scriptConfig" : {
+    "behaviorConfig" : {
+      "greetingChance" : 0.5
+    },
+
+    "dialog" : {
+      "tenant" : {
+        "grumbles" : {
+          "tagCriteria" : "/dialog/grumble.config:tagCriteria",
+          "enclosedArea" : "/dialog/grumble.config:enclosedArea",
+          "otherDeed" : "/dialog/grumble.config:otherDeed",
+          "severe" : "/dialog/grumble.config:severe",
+          "final" : "/dialog/grumble.config:final"
+        },
+        "arrivedHome" : {
+          "beacon" : "/dialog/arrivedhome.config:beacon",
+          "rent" : "/dialog/arrivedhome.config:rent"
+        }
+      },
+
+      "converse" : "/dialog/converse.config:converse",
+      "accuse" : "/dialog/converse.config:accuse",
+
+      "attack" : "/dialog/combat.config:attack",
+      "reattack" : "/dialog/combat.config:reattack",
+      "killedTarget" : "/dialog/combat.config:killedTarget",
+      "lostTarget" : "/dialog/combat.config:lostTarget",
+      "outOfSight" : "/dialog/combat.config:outOfSight",
+      "cheerOn" : "/dialog/combat.config:cheerOn",
+      "cantReach" : "/dialog/combat.config:cantReach"
+    }
+  },
+
+  "movementParameters" : {
+    "airJumpProfile" : {
+      "jumpSpeed" : 50.0
+    }
+  },
+
+  "combat" : {
+    "meleeWeaponWindups" : {
+      "spear" : 0.05
+    },
+    "meleeWeaponCooldowns" : {
+      "spear" : 0.7
+    }
+  },
+
+  "items" : {
+    "override" : [
+      [0, [
+          {
+            "chest" : [
+              { "name" : "zordianscarf", "parameters" : { "colorIndex" : [5] } }
+            ],
+            "back" : [
+              { "name" : "shortcapeback", "parameters" : { "colorIndex" : [5] } }
+            ],
+            "legs" : [
+              { "name" : "zordiangarment", "parameters" : { "colorIndex" : [5] } }
+            ],
+            "primary" : [
+              "npcspear"
+            ],
+            "sheathedprimary" : [ 
+              { "name" : "npcbow" }
+            ]
+          }
+        ] ]
+    ]
+  }
+}

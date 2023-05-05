@@ -5,8 +5,8 @@
   "maxStack" : 1,
   "rarity" : "Uncommon",
   "category" : "headarmour",
-  "description" : "A durasteel helm that is built for defense.",
-  "shortdescription" : "Lake Helm",
+  "description" : "A durasteel mask that is built for heat protection.",
+  "shortdescription" : "Halogen Mask",
   "tooltipKind" : "armor",
 
   "maleFrames" : "head.png",
@@ -41,15 +41,15 @@
 
   "colorOptions" : [
     // GREY BLUE
-    { "ffca8a" : "9da8af", "e0975c" : "676f83", "a85636" : "3d3d51", "6f2919" : "24232f" },
+    { "ffca8a" : "9da8af", "e0975c" : "676f83", "753e27" : "303041", "462014" : "24232f", "a8603b" : "4f5564", "a85636" : "545473", "ce704c" : "6f6f9c", "6f2919" : "2e2d3c"},
     // BLACK
-    { "ffca8a" : "838383", "e0975c" : "555555", "a85636" : "383838", "6f2919" : "151515" },
+    { "ffca8a" : "36393c", "e0975c" : "23262d", "753e27" : "101016", "462014" : "0c0c10", "a8603b" : "1b1d22", "a85636" : "1d1d27", "ce704c" : "262635", "6f2919" : "100f14"},
     // GREY
-    { "ffca8a" : "b5b5b5", "e0975c" : "808080", "a85636" : "555555", "6f2919" : "303030" },
+    { "ffca8a" : "b2b2b2", "e0975c" : "888888", "753e27" : "535353", "462014" : "464646", "a8603b" : "707070", "a85636" : "787878", "ce704c" : "969696", "6f2919" : "505050"},
     // WHITE
-    { "ffca8a" : "e6e6e6", "e0975c" : "b6b6b6", "a85636" : "7b7b7b", "6f2919" : "373737" },
+    { "ffca8a" : "b2b2b2", "e0975c" : "888888", "753e27" : "535353", "462014" : "464646", "a8603b" : "707070", "a85636" : "787878", "ce704c" : "969696", "6f2919" : "505050"},
     // RED
-    { "ffca8a" : "f4988c", "e0975c" : "d93a3a", "a85636" : "932625", "6f2919" : "601119" },
+    { "ffca8a" : "d994aa", "e0975c" : "c05969", "753e27" : "535353", "462014" : "741f1d", "a8603b" : "a74450", "a85636" : "b64444", "ce704c" : "d55858", "6f2919" : "832725"},
     // ORANGE
     { "ffca8a" : "ffd495", "e0975c" : "ea9931", "a85636" : "af4e00", "6f2919" : "6e2900" },
     // YELLOW

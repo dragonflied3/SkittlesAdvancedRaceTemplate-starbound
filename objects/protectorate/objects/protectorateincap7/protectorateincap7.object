@@ -1,0 +1,32 @@
+{
+  "objectName" : "protectorateincap6",
+  "rarity" : "Common",
+  "category" : "decorative",
+  "price" : 50,
+  "printable" : false,
+
+  "description" : "A Protector...",
+  "shortdescription" : "Protectorate Body",
+  "race" : "protectorate",
+
+  "apexDescription" : "They didn't deserve this...",
+  "avianDescription" : "Oh dear...",
+  "floranDescription" : "They isss gone...",
+  "glitchDescription" : "No sign of life...",
+  "humanDescription" : "My condolences...",
+  "hylotlDescription" : "Another fatality...",
+  "novakidDescription" : "Aw shucks, that's sad...",
+  "chimeraDescription" : "...",
+
+  "inventoryIcon" : "protectorateincap6icon.png",
+  "orientations" : [
+    {
+      "image" : "protectorateincap6.png:<color>",
+      "imagePosition" : [-8, 0],
+      "frames" : 1,
+      "animationCycle" : 0.5,
+
+      "spaceScan" : 0.1
+    }
+  ]
+}

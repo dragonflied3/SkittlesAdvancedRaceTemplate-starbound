@@ -1,0 +1,18 @@
+[
+	{
+		"op": "add",
+		"path": "/converse/fenerox",
+		"value": {
+			"chimera": [
+				"New person. Smells interesting. Quite exciting!",
+				"Odd person. Hopefully nice. Feeling cautious!",
+				"Weird person. Not Fenerox. Being polite!",
+				"Meeting stranger. Being friendly. New experience!",
+				"Odd person. Saying hello. Not Fenerox?",
+				"Friendly stranger. Feeling awkward. Cautiously optimistic!",
+				"New stranger. Not confident. Saying hello!",
+				"Unknown person. Fluffy fur. Large Teeth?"
+			]
+		}
+	}	
+]

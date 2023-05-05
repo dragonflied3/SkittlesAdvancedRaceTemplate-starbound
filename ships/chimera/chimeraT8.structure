@@ -8,12 +8,12 @@
   "backgroundOverlays" : [
     {
       "image" : "chimeraT8.png",
-      "position" : [5.875, 13.5],
+      "position" : [-2, -1.5],
       "fullbright" : true
     },
     {
       "image" : "chimeraT8lit.png",
-      "position" : [5.875, 13.5]
+      "position" : [-2, -1.5],
     }
   ],
   "blockKey" : "blockKey.config:blockKey",
