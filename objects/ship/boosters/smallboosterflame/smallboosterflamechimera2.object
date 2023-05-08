@@ -31,7 +31,7 @@
   ],
   "animation" : "/objects/ship/boosters/boosterflame.animation",
   "animationParts" : {
-    "booster" : "smallboosterflame.png"
+    "booster" : "smallboosterflamechimera.png"
   },
   "animationPosition" : [-15, -14],
   "scripts" : ["/objects/ship/boosters/boosterflame.lua"],

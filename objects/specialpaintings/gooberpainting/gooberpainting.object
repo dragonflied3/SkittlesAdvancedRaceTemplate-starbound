@@ -1,0 +1,34 @@
+{
+  "objectName" : "gooberpainting",
+  "rarity" : "Legendary",
+  "category" : "decorative",
+  "price" : 1500,
+  "printable" : false,
+
+  "description" : "A familiar portrait of a strange centipede...",
+  "shortdescription" : "Familiar Portrait #1",
+  "race" : "protectorate",
+
+  "apexDescription" : "I think that person is wanted somewhere.",
+  "avianDescription" : "They look like a friendly person.",
+  "floranDescription" : "I betssss it can't outrun Floran.",
+  "glitchDescription" : "Error, individual not found in my database.",
+  "humanDescription" : "I like the look of this painting.",
+  "hylotlDescription" : "Not sure if I like this artstyle.",
+  "novakidDescription" : "Swear I could'a seen this before...",
+  "chimeraDescription" : "This smell is familiar",
+
+  "inventoryIcon" : "gooberpaintingicon.png",
+  "orientations" : [
+    {
+      "image" : "gooberpainting.png:<color>",
+      "imagePosition" : [-6, -6],
+      "frames" : 1,
+      "animationCycle" : 0.5,
+
+      "spaceScan" : 0.1,
+      "anchors" : []
+
+    }
+  ]
+}

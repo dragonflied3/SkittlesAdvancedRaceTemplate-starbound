@@ -1,0 +1,34 @@
+{
+  "objectName" : "luciapainting",
+  "rarity" : "Rare",
+  "category" : "decorative",
+  "price" : 1000,
+  "printable" : false,
+
+  "description" : "A familiar portrait of a strange werefox...",
+  "shortdescription" : "Familiar Portrait #2",
+  "race" : "protectorate",
+
+  "apexDescription" : "I think that person is wanted somewhere.",
+  "avianDescription" : "They look like a friendly person.",
+  "floranDescription" : "I betssss it can't outrun Floran.",
+  "glitchDescription" : "Error, individual not found in my database.",
+  "humanDescription" : "I like the look of this painting.",
+  "hylotlDescription" : "Not sure if I like this artstyle.",
+  "novakidDescription" : "Swear I could'a seen this before...",
+  "chimeraDescription" : "This smell is familiar",
+
+  "inventoryIcon" : "luciapaintingicon.png",
+  "orientations" : [
+    {
+      "image" : "luciapainting.png:<color>",
+      "imagePosition" : [-6, -6],
+      "frames" : 1,
+      "animationCycle" : 0.5,
+
+      "spaceScan" : 0.1,
+      "anchors" : []
+
+    }
+  ]
+}
