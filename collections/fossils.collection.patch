@@ -1,0 +1,12 @@
+[
+  {
+    "op": "add",
+    "path": "/collectables/chimeraSkeleton",
+    "value": {
+      "order": 24,
+      "title": "Chimera Fossil",
+      "description": "This fossilised Chimera skeleton really pictures the fine line between human and zordian!",
+      "icon": "/items/fossils/humanoid/chimerafossilhead.png"
+    }
+  }
+]

@@ -1,0 +1,21 @@
+{
+  "itemName" : "chimerafossil3",
+  "rarity" : "Rare",
+  "itemTags" : ["fossil"],
+
+  "description" : "A fossilised pair of chimera legs.",
+  "category" : "mediumFossil",
+
+  "shortdescription" : "Chimera Legs",
+  "race" : "chimera",
+  "price" : 150,
+
+  "inventoryIcon" : "chimerafossil3icon.png",
+
+  "displayImage" : "/objects/fossils/humanoidfossils/fossilchimera/chimeralegsdisplay.png",
+  "displayoffset" :[0, 0],
+
+  "fossilSetName" : "chimeraSkeleton",
+  "setIndex" : 3,
+  "setCount" : 3
+}

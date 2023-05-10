@@ -1,0 +1,21 @@
+{
+  "itemName" : "chimerafossil2",
+  "rarity" : "Rare",
+  "itemTags" : ["fossil"],
+
+  "description" : "A fossilised chimera torso with a tail.",
+  "category" : "mediumFossil",
+
+  "shortdescription" : "Chimera Torso",
+  "race" : "chimera",
+  "price" : 150,
+
+  "inventoryIcon" : "chimerafossil2icon.png",
+
+  "displayImage" : "/objects/fossils/humanoidfossils/fossilchimera/chimeratorsodisplay.png",
+  "displayoffset" :[0, 0],
+
+  "fossilSetName" : "chimeraSkeleton",
+  "setIndex" : 2,
+  "setCount" : 3
+}
