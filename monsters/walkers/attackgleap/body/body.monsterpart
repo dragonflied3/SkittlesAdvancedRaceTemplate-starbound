@@ -1,0 +1,9 @@
+{
+  "name" : "attackgleap",
+  "category" : "attackgleap",
+  "type" : "body",
+
+  "frames" : {
+    "body" : "attackgleap.png"
+  }
+}
