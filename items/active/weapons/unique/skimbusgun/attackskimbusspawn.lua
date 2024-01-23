@@ -71,7 +71,7 @@ function releaseMonsters()
     end
   else
     -- NPC npcpetcapturepod
-    local monsterType = ("oogler")
+    local monsterType = ("skimbus")
     local damageTeam = entity.damageTeam()
     local entityId = world.spawnMonster(monsterType, mcontroller.position(), {
         level = config.getParameter("monsterLevel", 1),

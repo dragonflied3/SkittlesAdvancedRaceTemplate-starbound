@@ -1,22 +1,22 @@
 {
-  "itemName" : "ooglergun",
+  "itemName" : "skimbusgun",
   "price" : 640,
   "maxStack" : 1,
   "rarity" : "Legendary",
   "description" : "yes",
-  "shortdescription" : "Oogler Gun",
+  "shortdescription" : "Skimbus Gun",
   "tooltipKind" : "gun",
   "category" : "Pistol",
   "twoHanded" : false,
   "itemTags" : ["weapon","ranged","pistol"],
   "level" : 1,
 
-  "inventoryIcon" : "ooglergun.png",
+  "inventoryIcon" : "skimbusgun.png",
 
   "animation" : "/items/active/weapons/ranged/gun.animation",
   "animationParts" : {
     "butt" : "",
-    "middle" : "ooglergun.png",
+    "middle" : "skimbusgun.png",
     "barrel" : "",
     "muzzleFlash" : "/items/active/weapons/ranged/muzzleflash.png"
   },
@@ -44,8 +44,8 @@
   "elementalType" : "physical",
 
   "primaryAbility" : {
-    "type" : "ooglerbullet",
-    "name" : "oogler Minions",
+    "type" : "skimbusbullet",
+    "name" : "skimbus Minions",
     "scripts" : ["/items/active/weapons/ranged/gunfire.lua"],
     "class" : "GunFire",
 
@@ -57,7 +57,7 @@
     "projectileCount" : 1,
     "fireType" : "auto",
 
-    "projectileType" : "ooglerbullet1",
+    "projectileType" : "skimbusbullet1",
     "projectileParameters" : {
       "baseDamage" : 0
     },

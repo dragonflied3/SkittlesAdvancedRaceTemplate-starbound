@@ -1,6 +1,6 @@
 {
-  "projectileName" : "ooglerbullet1",
-  "image" : "ooglerbullet.png",
+  "projectileName" : "skimbusbullet1",
+  "image" : "skimbusbullet.png",
   "physics" : "laser",
   "animationCycle" : 0.25,
   "frameNumber" : 1,
@@ -19,7 +19,7 @@
   "knockback" : 0,
   "onlyHitTerrain" : true,
 
-  "scripts" : [ "attackooglerspawn.lua" ],
+  "scripts" : [ "attackskimbusspawn.lua" ],
 
   "returns" : false,
   "returnCollisionPoly" : [ [-25, -25], [25, -25], [25, 25], [-25, 25] ],
