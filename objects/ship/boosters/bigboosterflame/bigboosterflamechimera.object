@@ -32,7 +32,7 @@
   ],
   "animation" : "/objects/ship/boosters/boosterflame.animation",
   "animationParts" : {
-    "booster" : "bigboosterflame.png"
+    "booster" : "bigboosterflamechimera.png"
   },
   "animationPosition" : [-37, -42],
   "soundEffect" : "/sfx/objects/boosterflame.ogg",

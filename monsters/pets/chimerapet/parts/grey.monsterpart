@@ -1,9 +1,0 @@
-{
-  "name" : "grey",
-  "category" : "chimerapet",
-  "type" : "body",
-
-  "frames" : {
-    "body" : "grey.png"
-  }
-}

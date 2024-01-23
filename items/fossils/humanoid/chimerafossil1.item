@@ -1,0 +1,30 @@
+{
+  "itemName" : "chimerafossil1",
+  "rarity" : "Rare",
+  "itemTags" : ["fossil"],
+
+  "description" : "A fossilised chimera skull.",
+  "category" : "mediumFossil",
+
+  "shortdescription" : "Chimera Skull",
+  "race" : "chimera",
+  "price" : 250,
+
+  "inventoryIcon" : "chimerafossil1icon.png",
+
+  "completeSetDescriptions" : {
+    "price" : 4500,
+    "shortdescription" : "Chimera Fossil",
+    "description" : "A fossilised chimera, a twist in humanity."
+  },
+
+  "displayImage" : "/objects/fossils/humanoidfossils/fossilchimera/chimeraskulldisplay.png",
+  "displayoffset" :[0, 0],
+
+  "fossilSetName" : "chimeraSkeleton",
+  "setIndex" : 1,
+  "setCount" : 3,
+  "setCollectables" : { "fossils" : "chimeraSkeleton" },
+
+  "completeFossilIcon" : "/objects/fossils/humanoidfossils/humanoidskeletonicon.png"
+}

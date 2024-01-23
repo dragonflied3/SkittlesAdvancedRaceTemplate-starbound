@@ -1,0 +1,17 @@
+[
+  {
+    "op": "add",
+    "path": "/humanoidfossil/0/1/pool/-",
+    "value": { "weight": 0.4, "item": "chimerafossil1" }
+  },
+  {
+    "op": "add",
+    "path": "/humanoidfossil/0/1/pool/-",
+    "value": { "weight": 0.3, "item": "chimerafossil2" }
+  },
+  {
+    "op": "add",
+    "path": "/humanoidfossil/0/1/pool/-",
+    "value": { "weight": 0.3, "item": "chimerafossil3" }
+  }
+]

@@ -1,9 +1,0 @@
-{
-  "name" : "black",
-  "category" : "chimerapet",
-  "type" : "body",
-
-  "frames" : {
-    "body" : "black.png"
-  }
-}

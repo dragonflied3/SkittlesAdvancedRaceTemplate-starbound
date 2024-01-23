@@ -1,0 +1,17 @@
+{
+  "ability" : {
+    "type" : "gleapbullet",
+    "name" : "Gleap Minions",
+    "scripts" : ["/items/active/weapons/staff/abilities/controlprojectile/controlprojectile.lua"],
+    "class" : "ControlProjectile",
+
+    "energyCost" : 100,
+
+    "maxCastRange" : 50,
+
+    "projectileType" : "gleapbullet1",
+    "projectileParameters" : {
+      "baseDamage" : 6
+    }
+  }
+}

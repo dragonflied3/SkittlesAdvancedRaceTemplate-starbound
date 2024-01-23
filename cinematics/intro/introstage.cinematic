@@ -1515,7 +1515,7 @@
         }
       ],
       "animationFrames" : 2,
-      "text" : "This shaky isn't goood...",
+      "text" : "W-what is that?!",
       "textPosition" : {
         "position" : [34, 21],
         "vAnchor" : "top",
@@ -1620,7 +1620,7 @@
         }
       ],
       "animationFrames" : 2,
-      "text" : "Graduate! Take the Manipulator and run! Not safe here!",
+      "text" : "You, dear Graduate! Take Manipulator, and run! It isn't safe here!",
       "textPosition" : {
         "position" : [34, 21],
         "vAnchor" : "top",

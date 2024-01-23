@@ -1,5 +1,5 @@
 {
-  "objectName" : "protectorateincap6",
+  "objectName" : "protectorateincap7",
   "rarity" : "Common",
   "category" : "decorative",
   "price" : 50,
@@ -18,10 +18,10 @@
   "novakidDescription" : "Aw shucks, that's sad...",
   "chimeraDescription" : "...",
 
-  "inventoryIcon" : "protectorateincap6icon.png",
+  "inventoryIcon" : "protectorateincap7icon.png",
   "orientations" : [
     {
-      "image" : "protectorateincap6.png:<color>",
+      "image" : "protectorateincap7.png:<color>",
       "imagePosition" : [-8, 0],
       "frames" : 1,
       "animationCycle" : 0.5,
